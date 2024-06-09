@@ -1,3 +1,0 @@
-git remote add origin https://github.com/Hiti47/Projekt_git.git
-git branch -M main
-git push -u origin main
